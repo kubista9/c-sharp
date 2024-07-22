@@ -1,5 +1,10 @@
 Console.WriteLine("Hello, World!");
 
 string firstFriend = "Maria";
+firstFriend = firstFriend.Trim();
 string secondFriend = "Sage";
-Console.WriteLine($"My friends are {firstFriend} and {secondFriend}");
+string friends = $"My friends are {firstFriend} and {secondFriend}";
+
+Console.WriteLine(friends);
+Console.WriteLine(friends.Replace("Maria", "John"));
+Console.WriteLine(friends);
