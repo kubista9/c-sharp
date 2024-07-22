@@ -1,0 +1,12 @@
+## Available Scripts
+
+### dotnet new console -n HelloWorld 
+
+Create a new .NET console application. 
+
+### dotnet run
+
+## Notes 
+
+### .obj Files
+
