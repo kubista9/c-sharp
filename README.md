@@ -3,9 +3,10 @@
 ## Available Scripts
 
 ### dotnet new console -n HelloWorld 
-Create a new .NET console application. 
+Create a new .NET console application. -n is the name flag
 
 ### dotnet run
+Runs the application. 
 
 # Notes
 
